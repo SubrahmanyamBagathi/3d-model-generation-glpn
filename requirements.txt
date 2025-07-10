@@ -1,0 +1,7 @@
+torch
+transformers
+matplotlib
+Pillow
+open3d
+opencv-python
+numpy
